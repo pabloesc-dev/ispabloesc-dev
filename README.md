@@ -11,7 +11,6 @@
 ---
 ## 🛠️ Tecnologias e ferramentas
 
-### 💻 Linguagens de programação
 
 ### 💻 Linguagens de Programação
 
@@ -79,7 +78,7 @@ A pesquisa busca investigar o comportamento dos modelos em tarefas de programaç
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pabloesc-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
 </p>
 
